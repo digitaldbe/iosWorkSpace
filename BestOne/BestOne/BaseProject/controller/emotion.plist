@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>emotion01_happy.png</key>
+	<string>[happy]</string>
+	<key>emotion02_smile.png</key>
+	<string>[smile]</string>
+    <key>emotion03_bigsmile.png</key>
+	<string>[bigsmile]</string>
+	<key>emotion04_grin.png</key>
+	<string>[grin]</string>
+    <key>emotion05_exciting.png</key>
+	<string>[exciting]</string>
+	<key>emotion06_red.png</key>
+	<string>[red]</string>
+    <key>emotion07_waii.png</key>
+	<string>[wail]</string>
+	<key>emotion08_wink.png</key>
+	<string>[wink]</string>
+    <key>emotion09_love.png</key>
+	<string>[love]</string>
+	<key>emotion10_kissed.png</key>
+	<string>[kissed]</string>
+    <key>emotion11_star.png</key>
+	<string>[star]</string>
+	<key>emotion12_cool.png</key>
+	<string>[cool]</string>
+    <key>emotion13_tongue.png</key>
+	<string>[tongue]</string>
+	<key>emotion14_crazy.png</key>
+	<string>[crazy]</string>
+    <key>emotion15_adore.png</key>
+	<string>[adore]</string>
+	<key>emotion16_after_boom.png</key>
+	<string>[after_boom]</string>
+    <key>emotion17_confuse.png</key>
+	<string>[confuse]</string>
+	<key>emotion17_shame.png</key>
+	<string>[shame]</string>
+    <key>emotion18_hypnotized.png</key>
+	<string>[hypnotized]</string>
+	<key>emotion19_whist.png</key>
+	<string>[whist]</string>
+    <key>emotion20_sleep.png</key>
+	<string>[sleep]</string>
+	<key>emotion21_bubblegum.png</key>
+	<string>[bubblegum]</string>
+    <key>emotion22_bad_smelly.png</key>
+	<string>[bad_smelly]</string>
+	<key>emotion23_cold.png</key>
+	<string>[cold]</string>
+    <key>emotion24_medic.png</key>
+	<string>[medic]</string>
+	<key>emotion25_mummy.png</key>
+	<string>[mummy]</string>
+    <key>emotion25_sick.png</key>
+	<string>[sick]</string>
+	<key>emotion26_crazy_rabbit.png</key>
+	<string>[crazy_rabbit]</string>
+    <key>emotion26_nosebleed.png</key>
+	<string>[nosebleed]</string>
+	<key>emotion27_eyes_droped.png</key>
+	<string>[eyes_droped]</string>
+    <key>emotion28_go.png</key>
+	<string>[go]</string>
+	<key>emotion29_greedy.png</key>
+	<string>[greedy]</string>
+    
+    <key>emotion30_kiss.png</key>
+	<string>[kiss]</string>
+	<key>emotion32_sweat.png</key>
+	<string>[sweat]</string>
+    
+    <key>emotion33_surrender.png</key>
+	<string>[surrender]</string>
+    
+	<key>emotion34_stupid.png</key>
+	<string>[stupid]</string>
+    
+    <key>emotion35_silent.png</key>
+	<string>[silent]</string>
+    
+	<key>emotion36_doubt.png</key>
+	<string>[doubt]</string>
+    <key>emotion37_sad.png</key>
+	<string>[sad]</string>
+    
+	<key>emotion38_suprised.png</key>
+	<string>[suprised]</string>
+    <key>emotion39_tire.png</key>
+	<string>[tire]</string>
+    
+	<key>emotion40_what.png</key>
+	<string>[what]</string>
+    
+    <key>emotion41_waaaht.png</key>
+	<string>[waaaht]</string>
+    
+	<key>emotion42_zedz.png</key>
+	<string>[zedz]</string>
+    
+    <key>emotion43_bloody.png</key>
+	<string>[bloody]</string>
+    
+	<key>emotion44_dead.png</key>
+	<string>[dead]</string>
+    
+    <key>emotion46_dribble.png</key>
+	<string>[dribble]</string>
+    
+	<key>emotion47_horror.png</key>
+	<string>[horror]</string>
+    
+    <key>emotion48_beat_brick.png</key>
+	<string>[beat_brick]</string>
+    
+	<key>emotion49_beaten.png</key>
+	<string>[beaten]</string>
+    
+    <key>emotion50_mad.png</key>
+	<string>[mad]</string>
+    
+	<key>emotion51_evilgrin.png</key>
+	<string>[evilgrin]</string>
+    
+    <key>emotion52_unhappy.png</key>
+	<string>[unhappy]</string>
+	<key>emotion53_sure.png</key>
+	<string>[sure]</string>
+    
+    <key>emotion54_bad_egg.png</key>
+	<string>[bad_egg]</string>
+    
+	<key>emotion55_anger.png</key>
+	<string>[anger]</string>
+    <key>emotion56_ah.png</key>
+	<string>[ah]</string>
+    
+	<key>emotion57_too_sad.png</key>
+	<string>[too_sad]</string>
+    <key>emotion58_cry.png</key>
+	<string>[cry]</string>
+    
+	<key>emotion59_bye_bye.png</key>
+	<string>[bye_bye]</string>
+    
+    <key>emotion60_money.png</key>
+	<string>[money]</string>
+    
+	<key>emotionc_alien.png</key>
+	<string>[alien]</string>
+    
+    <key>emotionc_angel.png</key>
+	<string>[angel]</string>
+	<key>emotionc_baby.png</key>
+	<string>[baby]</string>
+    
+    <key>emotionc_batman.png</key>
+	<string>[batman]</string>
+	<key>emotionc_bspiderman.png</key>
+	<string>[bspiderman]</string>
+    
+    <key>emotionc_bvninja.png</key>
+	<string>[bvninja]</string>
+	<key>emotionc_clown.png</key>
+	<string>[clown]</string>
+    
+    <key>emotionc_diver.png</key>
+	<string>[diver]</string>
+    
+	<key>emotionc_hungry.png</key>
+	<string>[hungry]</string>
+    
+    <key>emotionc_nerd.png</key>
+	<string>[nerd]</string>
+    
+	<key>emotionc_pirate.png</key>
+	<string>[pirate]</string>
+    
+    <key>emotionc_pumpkin.png</key>
+	<string>[pumpkin]</string>
+    
+	<key>emotionc_rap.png</key>
+	<string>[rap]</string>
+    
+    <key>emotionc_skull.png</key>
+	<string>[skull]</string>
+    
+	<key>emotionc_spy.png</key>
+	<string>[spy]</string>
+    
+    <key>emotionc_ugirl.png</key>
+	<string>[ugirl]</string>
+    
+	<key>emotionc_unshaven.png</key>
+	<string>[unshaven]</string>
+    
+    <key>emotionc_vampire.png</key>
+	<string>[vampire]</string>
+    
+	<key>emotionf_devil.png</key>
+	<string>[devil]</string>
+    
+    <key>emotionf_flower_dead.png</key>
+	<string>[flower_dead]</string>
+    
+	<key>emotionf_flower.png</key>
+	<string>[flower]</string>
+    
+    <key>emotionf_ghost.png</key>
+	<string>[ghost]</string>
+    
+	<key>emotionf_question.png</key>
+	<string>[question]</string>
+    
+    <key>explosive.png</key>
+	<string>[explosive]</string>
+    
+	<key>favorite_love.png</key>
+	<string>[favorite_love]</string>
+    
+    <key>fcake.png</key>
+	<string>[fcake]</string>
+    
+	<key>fclock.png</key>
+	<string>[fclock]</string>
+    
+    <key>foodcandy.png</key>
+	<string>[foodcandy]</string>
+    
+	<key>foodchinese_noodles.png</key>
+	<string>[foodchinese_noodles]</string>
+    
+    <key>foodchocolate.png</key>
+	<string>[foodchocolate]</string>
+    
+	<key>foodhamburger.png</key>
+	<string>[foodhamburger]</string>
+    
+    <key>foodpizza.png</key>
+	<string>[foodpizza]</string>
+    
+	<key>gamecontroller.png</key>
+	<string>[gamecontroller]</string>
+    
+    <key>gift.png</key>
+	<string>[gift]</string>
+    
+	<key>money_bag.png</key>
+	<string>[money_bag]</string>
+    
+    <key>money_dollar.png</key>
+	<string>[money_dollar]</string>
+    
+	<key>money_euro.png</key>
+	<string>[money_euro]</string>
+    
+    <key>money_pound.png</key>
+	<string>[money_pound]</string>
+    
+	<key>money_yen.png</key>
+	<string>[money_yen]</string>
+    
+    <key>nchristmas_3.png</key>
+	<string>[nchristmas_3]</string>
+    
+	<key>newyeartree.png</key>
+	<string>[newyeartree]</string>
+    
+    <key>poo.png</key>
+	<string>[poo]</string>
+	<key>sport_football.png</key>
+	<string>[sport_football]</string>
+    
+    <key>sport_soccer.png</key>
+	<string>[sport_soccer]</string>
+    
+	<key>sport1_20.png</key>
+	<string>[sport1_20]</string>
+    
+    <key>tcup.png</key>
+	<string>[tcup]</string>
+	<key>telephone_receiver.png</key>
+	<string>[telephone_receiver]</string>
+    <key>thumb_down.png</key>
+	<string>[thumb_down]</string>
+    
+	<key>thumb_up.png</key>
+	<string>[thumb_up]</string>
+    
+    <key>wanimalcat.png</key>
+	<string>[wanimalcat]</string>
+    
+	<key>wdog.png</key>
+	<string>[wdog]</string>
+    
+    <key>weather1sun.png</key>
+	<string>[weather1sun]</string>
+    
+	<key>weather2half-moon.png</key>
+	<string>[weather2half-moon]</string>
+	<key>weather3_08.png</key>
+	<string>[weather3_08]</string>
+    <key>weather3sun_rain.png</key>
+	<string>[weather3sun_rain]</string>
+    
+	<key>weather6_rain.png</key>
+	<string>[weather6_rain]</string>
+    
+    <key>weather7lightning.png</key>
+	<string>[weather7lightning]</string>
+	<key>wwsnowflake.png</key>
+	<string>[wwsnowflake]</string>
+    <key>wwtemhot.png</key>
+	<string>[wwtemhot]</string>
+</dict>
+</plist>

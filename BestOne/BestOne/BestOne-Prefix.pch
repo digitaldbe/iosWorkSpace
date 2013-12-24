@@ -1,0 +1,39 @@
+//
+// Prefix header for all source files of the 'BestOne' target in the 'BestOne' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+
+    #import "XMPPServer.h"
+    #import "XMPPServer+Add.h"
+    #import "Define.h"
+
+//数据库需要的文件
+#define DBNAME    @"personinfo.sqlite"
+//id username sender  message url time
+#define USERNAME  @"username"
+#define SENDER    @"sender"
+#define RECEIVER  @"receiver"
+#define MESSAGETYPE  @"messagetype"
+#define MESSAGE   @"message"
+#define BIGURL    @"bigurl"
+#define SENDTIME  @"sendtime"
+#define ISREAD    @"isread"
+#define GROUP     @"group"
+#define VOICETIME @"voicetime"
+#define SMALLPICTURE  @"smallpicture"
+#define TABLENAME @"PERSONINFO"
+
+#define FTPURL  @"http://116.12.56.40/"
+
+#endif
+
+
